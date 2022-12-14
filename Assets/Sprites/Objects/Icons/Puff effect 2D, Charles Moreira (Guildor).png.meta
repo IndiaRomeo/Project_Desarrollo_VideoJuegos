@@ -1,0 +1,386 @@
+fileFormatVersion: 2
+guid: d9f0d77f42441ca4ba649bc4f0770c38
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Puff effect 2D, Charles Moreira (Guildor)_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 407
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff7799454204fc45a8441853ba7d3b5
+      internalID: -1525670466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff effect 2D, Charles Moreira (Guildor)_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 377
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981e38132f9be37439562709d7d93a3e
+      internalID: -838611115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff effect 2D, Charles Moreira (Guildor)_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 364
+        width: 121
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099089423361b5d4eadcfd2a810abca7
+      internalID: -771734131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff effect 2D, Charles Moreira (Guildor)_3
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 189
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49584c1c1c0e124f8625e6270b3cd3e
+      internalID: 1878270315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff effect 2D, Charles Moreira (Guildor)_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 167
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3e935b1beb71b48ade3749f3770e38
+      internalID: 1709880098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff effect 2D, Charles Moreira (Guildor)_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 3
+        width: 156
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141db1e4a9ae7444ba0295df36bf8219
+      internalID: 1017368355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff effect 2D, Charles Moreira (Guildor)_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 184
+        width: 163
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01ba9440f255ba4a92f95e3f08ba916
+      internalID: -1302853601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff effect 2D, Charles Moreira (Guildor)_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 177
+        width: 156
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9d4e7331878424eb8c9aca85798f0e
+      internalID: 577534616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff effect 2D, Charles Moreira (Guildor)_8
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 3
+        width: 164
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3f711b796a9c64590f1567efbbff92
+      internalID: 523790396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puff effect 2D, Charles Moreira (Guildor)_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 331
+        width: 119
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f714d51f00776844f9fdeda8662d2d6a
+      internalID: -975011932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Puff effect 2D, Charles Moreira (Guildor)_21: -1972180051
+      Puff effect 2D, Charles Moreira (Guildor)_20: 1306237687
+      Puff effect 2D, Charles Moreira (Guildor)_41: -1951203522
+      Puff effect 2D, Charles Moreira (Guildor)_46: 944402202
+      Puff effect 2D, Charles Moreira (Guildor)_28: -552901680
+      Puff effect 2D, Charles Moreira (Guildor)_17: -458193915
+      Puff effect 2D, Charles Moreira (Guildor)_45: 558703795
+      Puff effect 2D, Charles Moreira (Guildor)_27: -1882465097
+      Puff effect 2D, Charles Moreira (Guildor)_3: 1878270315
+      Puff effect 2D, Charles Moreira (Guildor)_14: -227442555
+      Puff effect 2D, Charles Moreira (Guildor)_35: 1118844275
+      Puff effect 2D, Charles Moreira (Guildor)_11: 297670480
+      Puff effect 2D, Charles Moreira (Guildor)_15: -211140779
+      Puff effect 2D, Charles Moreira (Guildor)_36: 1509967106
+      Puff effect 2D, Charles Moreira (Guildor)_9: -975011932
+      Puff effect 2D, Charles Moreira (Guildor)_52: 1502666960
+      Puff effect 2D, Charles Moreira (Guildor)_49: -440499977
+      Puff effect 2D, Charles Moreira (Guildor)_40: 1013340415
+      Puff effect 2D, Charles Moreira (Guildor)_44: -224192954
+      Puff effect 2D, Charles Moreira (Guildor)_16: 656293160
+      Puff effect 2D, Charles Moreira (Guildor)_47: 1836060719
+      Puff effect 2D, Charles Moreira (Guildor)_18: -2016208632
+      Puff effect 2D, Charles Moreira (Guildor)_1: -838611115
+      Puff effect 2D, Charles Moreira (Guildor)_22: 772307645
+      Puff effect 2D, Charles Moreira (Guildor)_8: 523790396
+      Puff effect 2D, Charles Moreira (Guildor)_32: -473672271
+      Puff effect 2D, Charles Moreira (Guildor)_26: 1474171435
+      Puff effect 2D, Charles Moreira (Guildor)_34: 114668374
+      Puff effect 2D, Charles Moreira (Guildor)_38: 199553043
+      Puff effect 2D, Charles Moreira (Guildor)_29: 1758596651
+      Puff effect 2D, Charles Moreira (Guildor)_13: -1862999053
+      Puff effect 2D, Charles Moreira (Guildor)_39: 2134917675
+      Puff effect 2D, Charles Moreira (Guildor)_33: 56535661
+      Puff effect 2D, Charles Moreira (Guildor)_6: -1302853601
+      Puff effect 2D, Charles Moreira (Guildor)_10: -495424319
+      Puff effect 2D, Charles Moreira (Guildor)_50: 1410041718
+      Puff effect 2D, Charles Moreira (Guildor)_43: -1056010619
+      Puff effect 2D, Charles Moreira (Guildor)_4: 1709880098
+      Puff effect 2D, Charles Moreira (Guildor)_19: 1321302275
+      Puff effect 2D, Charles Moreira (Guildor)_48: -1234854154
+      Puff effect 2D, Charles Moreira (Guildor)_30: 23285679
+      Puff effect 2D, Charles Moreira (Guildor)_23: -715754590
+      Puff effect 2D, Charles Moreira (Guildor)_31: -2049621421
+      Puff effect 2D, Charles Moreira (Guildor)_5: 1017368355
+      Puff effect 2D, Charles Moreira (Guildor)_7: 577534616
+      Puff effect 2D, Charles Moreira (Guildor)_12: 261835705
+      Puff effect 2D, Charles Moreira (Guildor)_42: 1755469509
+      Puff effect 2D, Charles Moreira (Guildor)_24: 777333564
+      Puff effect 2D, Charles Moreira (Guildor)_2: -771734131
+      Puff effect 2D, Charles Moreira (Guildor)_51: -1022493525
+      Puff effect 2D, Charles Moreira (Guildor)_25: -1542934086
+      Puff effect 2D, Charles Moreira (Guildor)_37: -1322586106
+      Puff effect 2D, Charles Moreira (Guildor)_0: -1525670466
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
